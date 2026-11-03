@@ -1,2 +1,2 @@
-from MR-MAFIA import main_apv
+from MR_MAFIA import main_apv
 main_apv()
